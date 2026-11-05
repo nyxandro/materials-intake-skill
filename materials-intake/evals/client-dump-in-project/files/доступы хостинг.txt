@@ -1,0 +1,4 @@
+Хостинг: panel.example-host.ru
+Логин: florad
+Пароль: Kx9!mPq27vL
+FTP: ftp.example-host.ru, тот же логин и пароль
