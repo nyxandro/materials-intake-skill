@@ -2,17 +2,16 @@
 name: materials-intake
 description: >
   Takes in the raw materials a project receives (briefs, chats and chat exports, letters, files,
-  archives, screenshots, recordings, links to cloud documents) and puts them in order in the
-  project's inbox/: finds what is new, reads it in full, files the originals under clear names,
-  removes duplicates and old versions, keeps passwords and personal data out of git, and keeps one
-  inventory of what is there and what it says: who decided what and when, constraints,
-  contradictions, questions to third parties. Use when the owner hands over materials or asks to
+  archives, screenshots, recordings, links to cloud documents) and keeps them in order in the
+  project's inbox/, with passwords and personal data out of git and one inventory of what is there
+  and what it says: who decided what and when, constraints, contradictions, questions to third
+  parties. Use when the owner hands over materials or asks to
   sort them («разбери, что прислали», «вот всё от клиента, разбери», «разложи входящие», «что
   нового в inbox», «обнови опись»), and when other work, such as designing a feature, rests on
   incoming materials. Not for a single meeting recording, a register of open problems, or logs and
   errors. The owner may phrase this in any language; match on meaning.
 metadata:
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Materials intake
