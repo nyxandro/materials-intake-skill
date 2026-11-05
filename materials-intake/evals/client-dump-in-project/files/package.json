@@ -1,5 +1,0 @@
-{
-  "name": "flora-dom-site",
-  "private": true,
-  "scripts": { "dev": "node src/server.js" }
-}
